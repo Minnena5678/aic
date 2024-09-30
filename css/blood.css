@@ -3,10 +3,6 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
-    background: url('http://localhost/por/aic/im/120.png') no-repeat center center fixed;
-    /* เพิ่มภาพพื้นหลัง */
-    background-size: cover;
-    /* ปรับขนาดภาพให้เต็มหน้าจอ */
     color: #333;
     text-align: center;
 }
