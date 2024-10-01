@@ -94,6 +94,7 @@ a:hover {
     position: relative;
     max-width: 800px;
     text-align: left;
+    text-decoration: none;
 }
 
 /* CSS สำหรับส่วน .c1 */
@@ -292,10 +293,7 @@ button.precautions:hover {
 #precautionsPopup4 .popup-content p,
 #precautionsPopup5 .popup-content p {
     background-color: #ffebc5;
-    /* สีส้มอ่อน */
 }
-
-
 .popup p:hover {
     background-color: #f0f4f8;
 }
@@ -311,6 +309,7 @@ button.precautions:hover {
     cursor: pointer;
     margin-top: 20px;
     font-size: 1rem;
+    text-decoration: none;
     transition: background-color 0.3s ease, transform 0.3s ease;
 }
 
@@ -339,7 +338,3 @@ button.precautions:hover {
     border-radius: 30px;
 }
 
-
-.back-to-main:hover {
-    text-decoration: none;
-}
