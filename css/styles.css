@@ -34,7 +34,7 @@ h1 {
     align-items: center;
     justify-content: center;
     margin: 20px;
-    min-height: 65vh;
+    min-height: 50vh;
 }
 
 
@@ -77,4 +77,17 @@ h1 {
 
 .condi {
     background-color: #28a745;
+}
+
+.back-to-main ,.backindex{
+    display: inline-block;
+    /* ปรับให้ปุ่มพอดีกับขนาดของข้อความ */
+    text-align: center;
+    margin: 30px;
+    font-size: 16px;
+    color: #0a0a0a;
+    text-decoration: none;
+    background-color: #f39c12;
+    padding: 6px 10px;
+    border-radius: 30px;
 }
